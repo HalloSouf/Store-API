@@ -1,0 +1,9 @@
+# Build
+/dist
+
+# Environment
+/node_modules
+.env
+
+# Yarn & Npm
+yarn.lock
